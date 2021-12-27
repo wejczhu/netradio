@@ -1,3 +1,0 @@
-/home/wejczhu/Andy/Interface/netradio/build/CMakeFiles/rebuild_cache.dir
-/home/wejczhu/Andy/Interface/netradio/build/CMakeFiles/netradio.dir
-/home/wejczhu/Andy/Interface/netradio/build/CMakeFiles/edit_cache.dir
